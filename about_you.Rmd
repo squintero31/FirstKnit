@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer 
-I attended Eastside High School ,where I graduated the year of 2022. 
+I attended Eastside High School ,where I graduated the year of 2022. English is far from being like math, math is a bit more challenging to me as supposed to english just reading and writing. A subject i did good in was Spanish since its a language I’m already aware of.
   
 
      
@@ -27,14 +27,16 @@ I attended Eastside High School ,where I graduated the year of 2022.
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
-   
-
+I own a Apple computer and I think I’m pretty familiar with it and i know my way around it.. Id give myself a 7. Im connection is okay not the best, but workable.
+ 
+ 
+ 
+ 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+ 
    
  
 
@@ -46,7 +48,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+
  
 
 
@@ -57,8 +59,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
-  
+
 
 
 
@@ -76,7 +77,11 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 
 
-
+git config --global user.name “squintero3 “
+git config --global user.email “squintero3@students.avc.edu”
+git config --global http.sslverify "false" 
+git config --global core.autocrlf true
+git config --global credential.helper 'cache --timeout 3600
 
   
 
